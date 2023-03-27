@@ -9,5 +9,9 @@ não costumo usar no CSS, tentei utilizar a tag picture mas sem sucesso, tive qu
 <p>
   <a hreft="">Clique para ver o Card</a>
 </p>
-https://user-images.githubusercontent.com/107772420/228033620-666fb953-c90e-415b-9cb0-e65588e0fdeb.mp4
+
+
+
+
+https://user-images.githubusercontent.com/107772420/228034141-23633761-f1ef-4ae2-8b3d-1e83f6a010c9.mp4
 
