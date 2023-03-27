@@ -10,8 +10,12 @@ não costumo usar no CSS, tentei utilizar a tag picture mas sem sucesso, tive qu
   <a href="https://xmurilo.github.io/card-perfume-front-end-mentor/">Clique para ver o Card</a>
 </p>
 
+<h2>Desktop</h2>
+
+https://user-images.githubusercontent.com/107772420/228035213-44e93464-7461-4601-999b-1cd56605c4aa.mp4
 
 
+<h2>Mobile</h2>
 
 https://user-images.githubusercontent.com/107772420/228034141-23633761-f1ef-4ae2-8b3d-1e83f6a010c9.mp4
 
