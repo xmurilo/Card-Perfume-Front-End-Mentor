@@ -3,8 +3,7 @@
 <p>Um card de um perfume, foi tirado de um dos desafios do Front-End Mentor utilizei Flex e Media Query</p>
 
 <h2>O que aprendi?</h2>
-<p>Um problema que tive foi como eu iria fazer a transição da foto para cima do card, estava usando a imagem no HTML
-não costumo usar no CSS, tentei utilizar a tag picture mas sem sucesso, tive que colocar a imagem do perfume pelo CSS, utilizando background-size, background-repeat, background-position, quando coloquei a quebra para 600px a imagem estava sumindo não sabia porque, então por testes descobri que eu estava usando porcentagem na classe da imagem antes de quebrar, tive que definir na quebra que ele ficasse com uma largura de 400px e uma altura de 300px</p>
+<p>Durante a criação do cartão com HTML e CSS, encontrei um problema ao tentar fazer a transição da imagem para o topo do cartão. Inicialmente, tentei usar a tag <picture>, mas não tive sucesso. Então, resolvi colocar a imagem do perfume por meio do CSS, usando as propriedades de background-size, background-repeat e background-position. Ao ajustar a largura e altura da imagem, percebi que ela estava desaparecendo em tamanhos menores de tela. Depois de alguns testes, descobri que estava usando porcentagens em vez de uma largura fixa, o que causava o problema. Corrigi isso ajustando a largura para 400px e altura para 300px para telas menores. </p>
 
 <p>
   <a href="https://xmurilo.github.io/card-perfume-front-end-mentor/">Clique para ver o Card</a>
