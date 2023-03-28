@@ -44,7 +44,7 @@ main {
 
 .container-card {
   background-color: var(--white);
-  width: 590px;
+  width: 600px;
   display: flex;
   border-radius: 10px;
   overflow: hidden;
@@ -63,6 +63,7 @@ main {
 
 .container-card .informacoes h1 {
   margin: 20px 0px;
+  font-size: 32px;
 }
 
 .container-card .informacoes h4 {
