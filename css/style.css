@@ -44,7 +44,8 @@ main {
 .container-card {
   background-color: var(--white);
   width: 600px;
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   border-radius: 10px;
   overflow: hidden;
   transition: 0.5s ease-in-out;
@@ -61,7 +62,6 @@ main {
 
 .container-card .informacoes {
   padding: 20px;
-  width: 100%;
 }
 
 .container-card .informacoes h1 {
@@ -127,8 +127,8 @@ main {
 @media (max-width: 600px) {
   .container-card {
     background-color: var(--white);
-    width: 325px;
-    height: 680px;
+    width: 300px;
+    height: 620px;
     display: flex;
     flex-direction: column;
     transition: 0.3s ease-in-out;
@@ -136,5 +136,13 @@ main {
 
   .container-card .informacoes {
     padding: 20px;
+  }
+
+  .container-card .informacoes .price {
+    margin-top: 40px;
+  }
+
+  .button {
+    width: 100%;
   }
 }
