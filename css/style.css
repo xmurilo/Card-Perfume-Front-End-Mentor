@@ -133,11 +133,7 @@ main {
     flex-direction: column;
     transition: 0.3s ease-in-out;
   }
-
-  .container-card .informacoes {
-    padding: 20px;
-  }
-
+  
   .container-card .informacoes .price {
     margin-top: 40px;
   }
