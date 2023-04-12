@@ -127,14 +127,14 @@ main {
 @media (max-width: 600px) {
   .container-card {
     background-color: var(--white);
-    width: 375px;
-    height: 700px;
+    width: 325px;
+    height: 680px;
     display: flex;
     flex-direction: column;
     transition: 0.3s ease-in-out;
   }
 
-  .button {
-    width: 340px;
+  .container-card .informacoes {
+    padding: 20px;
   }
 }
